@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# qa-masterclass-bootcamp
 =======
 # QA Masterclass Bootcamp - Final Teslimatı
 
@@ -22,10 +20,6 @@ qa-masterclass-bootcamp/
 │ └── README.md
 │
 └── README.md
-
-markdown
-Kopyala
-Düzenle
 
 ## 🔎 Bölümler
 
