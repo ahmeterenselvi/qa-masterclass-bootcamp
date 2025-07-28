@@ -63,4 +63,3 @@ qa-masterclass-bootcamp/
 **Ahmet Eren Selvi**  
 LinkedIn: [linkedin.com/in/ahmeterenselvi](https://www.linkedin.com/in/ahmeterenselvi)  
 GitHub: [github.com/ahmeterenselvi](https://github.com/ahmeterenselvi)
->>>>>>> master
