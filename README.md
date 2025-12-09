@@ -3,6 +3,7 @@
 
 Bu proje, **QA Masterclass: Test Engineering Bootcamp** eğitimi kapsamında oluşturulmuş olup; manuel test, test otomasyonu ve API testlerinden oluşan üç ana bölüm içermektedir.
 
+```text
 ## 📁 Klasör Yapısı
 
 qa-masterclass-bootcamp/
@@ -20,6 +21,7 @@ qa-masterclass-bootcamp/
 │ └── README.md
 │
 └── README.md
+```
 
 ## 🔎 Bölümler
 
